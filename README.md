@@ -5,3 +5,14 @@
 </p>
 
 Desenvolvimento de uma Home Screen para app de comunidade que compartilha viagens.
+
+
+## Como configurar o projeto
+-   Clonar o projeto utilizando o comando abaixo.
+ 
+git clone https://github.com/osamuelalmeid/community_app_for_travelers.git
+
+-   Entrar na pasta do projeto e baixar os pacotes, rodando o comando abaixo no terminal.
+ 
+cd community_app_for_travelers
+flutter packages get

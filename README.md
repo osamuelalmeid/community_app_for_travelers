@@ -1,4 +1,4 @@
-# community_app_for_travelers
+# Travelers - Comunidade de viagens
 
 <p align="center">
    <img src="https://cdn-images-1.medium.com/max/800/1*NZa0-bpjWABZRlLYzZGqCw.png" weight="200"/>
